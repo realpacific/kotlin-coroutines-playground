@@ -1,0 +1,3 @@
+interface Runner {
+    fun run()
+}
